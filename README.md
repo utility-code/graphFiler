@@ -7,4 +7,4 @@
 - If you've made it this far. Let me tell you the funny part.
 - I made this using a graph plotting library in Python. Hacked using JavaScript.
 
--[img](vid.gif)
+- [img](vid.mp4)
